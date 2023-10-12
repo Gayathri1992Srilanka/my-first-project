@@ -14,3 +14,11 @@ learning about git basics
 4. `git commit -m 'my commit'` (replace whatever your comit is)
 5. `git push` (this will push the changes)
 
+
+## Test a table
+
+| Tables        | Are           | Cool  |
+| ------------- |:-------------:| -----:|
+| col 3 is      | right-aligned | $1600 |
+| col 2 is      | centered      |   $12 |
+| zebra stripes | are neat      |    $1 |
