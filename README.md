@@ -5,7 +5,7 @@ learning about git basics
 - copy url from git project
 - go to the folder you want to copy the project
 - right click mouse, and select open in termninal
-- type `git clone YOUR_COPIED_URL.
+- type `git clone YOUR_COPIED_URL`
 
 ## how to save and push a file change to git hub.
 1. do the changes to the file.
